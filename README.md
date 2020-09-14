@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on YourRecipe.
-- 🌱 I’m currently learning Recat.js.
+- 🌱 I’m currently learning React.js.
 - 📫 How to reach me: stachelek11@gmail.com
 
 <!--
