@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on YourRecipe.
+- 🔭 I’m currently working on new website for v8automatyka and v8procesy.
 - 🌱 I’m currently learning React.js.
 - 📫 How to reach me: stachelek11@gmail.com
 
