@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on new website for v8automatyka and v8procesy.
-- 🌱 I’m currently learning .NET Core.
 - 📫 How to reach me: stachelek11@gmail.com
 
 ## My stack and tools:
